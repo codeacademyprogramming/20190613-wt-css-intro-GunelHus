@@ -1,0 +1,182 @@
+body {
+    padding-top: 50px;
+}
+.firstsamples{
+    color:black;
+    font-family: sans-serif;
+    text-decoration-line: none;
+    font-size: 18px;
+    padding: 15px;
+    padding-right: 30px;
+    padding-left: 30px;
+    margin: 30px;
+    border: 2px solid;
+}
+.grey {
+    border-color:lightgrey;
+    
+}
+
+.yellow {
+     border-color:yellow
+}
+
+.red {
+    border-color:red;
+}
+
+.turquoise {
+    border-color: turquoise;
+
+}
+.secondsamples
+{
+padding:15px 20px;
+font-size: 15px;
+font-family: Arial, Helvetica, sans-serif;
+text-decoration-line: none;
+margin-left: 30px;
+}
+.greybutton {
+    background-color: grey;
+    color: white;
+}
+
+.yellowbutton {
+    background-color: gold;
+    color: black;
+    
+}
+
+.redbutton {
+    background-color: rgb(228, 101, 101);
+    color: white;
+}
+
+.lightgrey {
+    background-color: rgb(169, 183, 192);
+    color: black;
+    text-decoration-line: none;
+}
+
+.bluebutton {
+    background-color: turquoise;
+    color: white;
+}
+.buttoncolor
+{
+    background-color: black;
+    color: white;
+    border: 2px solid black;
+    text-decoration-line: none;
+    padding: 10px;
+}
+.button1 {
+    
+    border-radius: 15px 15px 15px 1px;
+}
+
+.button2 {
+border-radius: 15px 15px 1px 15px;
+}
+
+.button3 {
+    border-radius: 15px 1px 15px 15px;
+}
+
+.button4 {
+    border-radius: 1px 15px 15px 15px;
+}
+
+.button5 {
+border-radius: 15px 15px 1px 1px;
+}
+
+.button6 {
+    border-radius: 1px 1px 15px 15px;
+}
+
+.button7 {
+    border-radius: 15px 1px 1px 15px;
+}
+
+.button8 {
+    border-radius: 1px 15px 15px 1px;
+}
+.defaultsmall
+{
+    color: white;
+    text-decoration-line: none;
+    padding: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', sans-serif;
+}
+.smallbutton1 {
+    background-color: rgb(112, 26, 26);
+    border-radius: 5px;
+}
+
+.smallbutton2 {
+    background-color: rgb(33, 33, 224);
+    border-radius: 10px;
+}
+
+.smallbutton3
+ {
+    background-color: green;
+    border-radius: 15px;
+}
+
+.smallbutton4 {
+    background-color: goldenrod;
+    border-radius: 20px;
+}
+
+.default-button {
+    background-color: rgb(45, 108, 224);
+    text-decoration-line: none;
+    color: white;
+    border-radius: 3px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.minibutton{
+    padding:5px 10px 5px 10px;
+    font-size: 8px;
+}
+
+.defaultbutton {
+    margin: 10px;
+    border-radius: 3px;
+    padding: 7px 10px 7px 10px;
+    font-size: 11px;
+}
+
+.largebutton {
+    margin: 10px;
+    border-radius: 3px;
+    font-size: 15px;
+    padding:9px 13px;
+}
+
+.minirounded {
+    border-radius: 8px;
+    padding: 5px 9px;
+    font-size: 8px;
+}
+
+.defaultrounded {
+    border-radius: 8px;
+    padding:6px 11px;
+    font-size: 9px;
+    margin: 10px;
+}
+
+.largerounded {
+    padding: 9px 16px;
+    margin: 10px;
+    font-size: 15px;
+}
+.pclass
+{
+    border-left: 10px solid grey;
+}
